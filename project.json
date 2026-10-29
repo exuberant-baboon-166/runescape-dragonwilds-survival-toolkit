@@ -1,0 +1,22 @@
+{
+  "name": "runescape-dragonwilds-survival-toolkit",
+  "displayName": "RuneScape Dragonwilds Survival Toolkit",
+  "programType": "survival-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Resource groups",
+    "Exploration notes",
+    "Session planning"
+  ],
+  "topics": [
+    "runescape-dragonwilds-survival-toolkit",
+    "runescape-dragonwilds-tools",
+    "runescape-dragonwilds-menu",
+    "runescape-dragonwilds-settings",
+    "runescape-dragonwilds-configs",
+    "runescape-dragonwilds-resource-groups",
+    "runescape-dragonwilds-exploration-notes"
+  ]
+}
